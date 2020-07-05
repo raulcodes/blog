@@ -1,4 +1,4 @@
-baseURL = "http://raulcodes.com/"
+baseURL = "https://agitated-thompson-c4185c.netlify.app/"
 languageCode = "en-us"
 title = "Raul Camacho"
 theme = "terminal"
