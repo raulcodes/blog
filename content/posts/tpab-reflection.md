@@ -1,5 +1,5 @@
 +++
-title = "To Pimp a Butterfly Reflection"
+title = "Reflection over ‘To Pimp a Butterfly`"
 date = "2020-06-05"
 author = "Raul Camacho"
 authorTwitter = "_raulcodes"

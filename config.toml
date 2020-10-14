@@ -49,7 +49,7 @@ paginate = 5
     languageName = "English"
     title = "Raul"
     subtitle = "my blog"
-    owner = ""
+    owner = "Raul Camacho"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -67,7 +67,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
