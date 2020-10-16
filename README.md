@@ -2,7 +2,7 @@
 
 # blog
 
-[Live here](raulcodes.com)
+[Live here](https://raulcodes.com)
 
 ## Local
 Since the Hugo theme is included as a git submodule, you need to clone with the `--recurse-submodules` flag.
