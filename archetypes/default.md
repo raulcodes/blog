@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+author: "Raul Camacho"
+authorTwitter: "_raulcodes"
+cover: ""
+keywords: ["", ""]
+description: ""
+showFullContent: false
 ---
 
