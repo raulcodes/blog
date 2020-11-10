@@ -7,6 +7,7 @@ cover = ""
 keywords = ["api", "gnostic", "google", "protocal buffers", "openapi"]
 description = "How unfinished API documentation diminishes the usefulness of tools like gnostic"
 showFullContent = false
+tags = ["development", "go"]
 +++
 
 Thoroughly document your API. Please. That is all.

@@ -3,10 +3,10 @@ title = "Reflection over ‘To Pimp a Butterfly`"
 date = "2020-06-05"
 author = "Raul Camacho"
 authorTwitter = "_raulcodes"
-cover = "TPAB.jpg"
 keywords = ["Kendrick Lamar", "TPAB", "HipHop"]
 description = "Five years later, I look back at an album that offers commentary on the past and present social climate in America"
 showFullContent = false
+tags = ["music"]
 +++
 
 Hip-Hop is the most popular genre in the world, and there is a great reason for that. It is
