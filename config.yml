@@ -1,0 +1,81 @@
+baseURL: 'https://raulcodes.com'
+title: Raul Camacho
+paginate: 5
+theme: hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Dev
+          url: /tags/development
+          weight: 5
+        - name: Music
+          url: /tags/music
+          weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 15
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+taxonomies:
+  tag: "tags"
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Raul Camacho
+  description: "Raul's blog"
+  author: Raul Camacho
+
+  # images: "<link or path of image for opengraph, twitter-cards>"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: dark
+  disableThemeToggle : false
+  disableSpecial1stPost : false
+
+  assets:
+    favicon: '/favicon.ico'
+
+  # label:
+  #   text: "Raul Camacho"
+  #   icon: /si-icon.png
+  #   iconHeight: 50
+
+  # profile-mode
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: ExampleSite
+  #   # imageUrl: '<img location>'
+  #   # imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Howdy! \U0001F44B \U0001F637"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/_raulcodes'
+    - name: github
+      url: 'https://github.com/raulcodes'
+    - name: dribbble
+      url: 'https://dribbble.com/raulcodes'
+

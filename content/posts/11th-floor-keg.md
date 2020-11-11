@@ -1,11 +1,15 @@
-+++
-title = "The 11th Floor Kegerator"
-date = "2019-10-13"
-author = "Raul Camacho"
-authorTwitter = "_raulcodes"
-showFullContent = false
-tags = ["blog"]
-+++
+---
+title: "The 11th Floor Kegerator"
+date: "2019-10-13"
+author: "Raul Camacho"
+showFullContent: false
+tags: ["blog"]
+cover:
+    image: ""
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false
+---
 
 In the year 2017, a team was formed at a company hackathon in downtown Austin, Texas. A team with a dream of beer and technology mingling and interweaving in a way never seen before. This dream manifested itself into an award-winning kegerator. This kegerator could tell you how many pints you’ve had, how much beer was left in the keg, light up with pretty lights, and probably even tell you the time. All was well in the world of the hackathon kegerator.
 

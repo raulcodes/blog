@@ -1,14 +1,11 @@
-+++
-title = "Thorough API Documentation and Client Code Generation"
-date = "2020-10-14"
-author = "Raul Camacho"
-authorTwitter = "_raulcodes"
-cover = ""
-keywords = ["api", "gnostic", "google", "protocal buffers", "openapi"]
-description = "How unfinished API documentation diminishes the usefulness of tools like gnostic"
-showFullContent = false
-tags = ["development", "go"]
-+++
+---
+title: "Thorough API Documentation and Client Code Generation"
+date: "2020-10-14"
+author: "Raul Camacho"
+keywords: ["api", "gnostic", "google", "protocal buffers", "openapi"]
+description: "How unfinished API documentation diminishes the usefulness of tools like gnostic"
+tags: ["development", "go"]
+---
 
 Thoroughly document your API. Please. That is all.
 
