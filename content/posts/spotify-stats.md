@@ -7,8 +7,7 @@ description: "A tool gor creating playlists of your top listened-to tracks on Sp
 tags: ["nextjs", "react", "spotify", "api", "music"]
 ---
 
-{{< figure align="center" src="/spotify-stats.png" alt="Spotify Stats" height="500" caption="Final design of the web app" >}}
-
+{{< image src="/spotify-stats.png" alt="Spotify Stats" height="427" width="500" >}}
 
 I haven't posted here in a while, so I thought, what better way to start back up then to post
 something I did over a year ago!  
