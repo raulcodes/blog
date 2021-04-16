@@ -14,13 +14,13 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Dev
+        - name: dev
           url: /tags/development
           weight: 5
-        - name: Music
+        - name: music
           url: /tags/music
           weight: 10
-        - name: Tags
+        - name: all tags
           url: /tags/
           weight: 15
 
@@ -40,7 +40,7 @@ params:
   # images: "<link or path of image for opengraph, twitter-cards>"
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   comments: false
   defaultTheme: dark
   disableThemeToggle : false
@@ -72,10 +72,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/_raulcodes'
     - name: github
       url: 'https://github.com/raulcodes'
     - name: dribbble
       url: 'https://dribbble.com/raulcodes'
+    - name: twitter
+      url: 'https://twitter.com/_raulcodes'
 

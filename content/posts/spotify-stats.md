@@ -3,8 +3,9 @@ title: "Spotify Stats NextJS app"
 date: "2021-03-13"
 author: "Raul Camacho"
 keywords: ["spotify", "api", "music", "playlist", "nextjs"]
-description: "A tool gor creating playlists of your top listened-to tracks on Spotify"
 tags: ["nextjs", "react", "spotify", "api", "music"]
+summary: "I haven't posted here in a while, so I thought, what better way to start back up then to post
+something I did over a year ago"
 ---
 
 {{< image src="/spotify-stats.png" alt="Spotify Stats" height="427" width="500" >}}
