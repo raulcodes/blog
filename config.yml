@@ -43,7 +43,7 @@ params:
   ShowShareButtons: false
   comments: false
   defaultTheme: dark
-  disableThemeToggle : false
+  disableThemeToggle : true
   disableSpecial1stPost : false
 
   assets:
