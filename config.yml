@@ -1,7 +1,7 @@
 baseURL: 'https://raulcodes.com'
 title: Raul Camacho
 paginate: 5
-theme: hugo-PaperMod
+theme: hugo-papel
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -20,9 +20,6 @@ languages:
         - name: music
           url: /tags/music
           weight: 10
-        - name: all tags
-          url: /tags/
-          weight: 15
 
 minify:
   disableXML: true
@@ -34,42 +31,22 @@ taxonomies:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Raul Camacho
-  description: "Raul's blog"
+  description: Welcome to my blog
   author: Raul Camacho
+  avatar: memoji.png
 
-  # images: "<link or path of image for opengraph, twitter-cards>"
+  # Available themes: gotham, toothpaste, dracula
+  colorTheme: toothpaste
 
-  ShowReadingTime: true
-  ShowShareButtons: false
-  comments: false
-  defaultTheme: dark
-  disableThemeToggle : true
-  disableSpecial1stPost : false
+  # Font family: IBM Plex, available styles: serif, sans
+  fontStyle: sans 
+
+  # ShowReadingTime: true
+  # ShowShareButtons: false
+  # comments: false
 
   assets:
     favicon: '/favicon.ico'
-
-  # label:
-  #   text: "Raul Camacho"
-  #   icon: /si-icon.png
-  #   iconHeight: 50
-
-  # profile-mode
-  # profileMode:
-  #   enabled: false # needs to be explicitly set
-  #   title: ExampleSite
-  #   # imageUrl: '<img location>'
-  #   # imageTitle: my image
-  #   buttons:
-  #     - name: Posts
-  #       url: posts
-  #     - name: Tags
-  #       url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Howdy! \U0001F44B \U0001F637"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: github

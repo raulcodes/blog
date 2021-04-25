@@ -1,5 +1,5 @@
 ---
-title: "Settin up Go's pgx package with docker-compose"
+title: "Setting up Go's pgx package with docker-compose"
 date: "2020-10-16"
 author: "Raul Camacho"
 tags: ["development", "go"]
