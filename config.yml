@@ -36,7 +36,7 @@ params:
   avatar: memoji.png
 
   # Available themes: gotham, toothpaste, dracula
-  colorTheme: toothpaste
+  colorTheme: gotham
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
