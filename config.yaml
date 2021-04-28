@@ -31,8 +31,8 @@ taxonomies:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
 
-  # Available themes: gotham, toothpaste, dracula
-  colorTheme: dracula
+  # Available themes: gotham, toothpaste, dracula, gandalf
+  colorTheme: gandalf
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
