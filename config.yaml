@@ -2,6 +2,7 @@ baseURL: 'https://raulcodes.com'
 title: Raul Camacho
 paginate: 5
 theme: oso
+languageCode: en
 
 enableRobotsTXT: true
 buildDrafts: false
