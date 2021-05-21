@@ -9,6 +9,11 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 languages:
   en:
     languageName: "English"
@@ -33,7 +38,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
 
   # Available themes: gotham, toothpaste, dracula, gandalf
-  colorTheme: gandalf
+  colorTheme: duotone-snow
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
