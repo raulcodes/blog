@@ -38,7 +38,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
 
   # Available themes: gotham, toothpaste, dracula, gandalf
-  colorTheme: duotone-snow
+  colorTheme: toothpaste
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
@@ -54,8 +54,8 @@ params:
       url: 'https://github.com/raulcodes'
     - name: dribbble
       url: 'https://dribbble.com/raulcodes'
-    - name: twitter
-      url: 'https://twitter.com/_raulcodes'
+    # - name: twitter
+      # url: 'https://twitter.com/_raulcodes'
 
   # ShowReadingTime: true
   # ShowShareButtons: false
