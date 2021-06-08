@@ -35,13 +35,15 @@ taxonomies:
   tag: "tags"
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
 
   # Available themes: gotham, toothpaste, dracula, gandalf
   colorTheme: toothpaste
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
+
+  plausible: true
 
   homePage:
     title: Raul Camacho
