@@ -1,13 +1,18 @@
 ---
-draft: false
-title: "Playlist of The Month: May 2021"
-date: "2021-05-01"
-author: "Raul Camacho"
-keywords: ["spotify", "music", "playlist"]
-tags: ["spotify", "music", "playlist"]
-summary: "This month's top ten is a mixbag."
----
+title: 'Playlist of The Month: May 2021'
+date: 2021-05-01
+author: Raul Camacho
+keywords:
+- spotify
+- music
+- playlist
+tags:
+- spotify
+- music
+- playlist
+summary: This month's top ten is a mixbag.
 
+---
 <div class="spotify-playlist-container">
 	<header class="spotify-playlist-header">
 		<img class="spotify-playlist-img" src="images/playlist-cover.png" height=250 width=250 />
