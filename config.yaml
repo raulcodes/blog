@@ -38,7 +38,7 @@ params:
   env: production
 
   # Available themes: gotham, toothpaste, dracula, gandalf
-  colorTheme: gandalf
+  colorTheme: gotham
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
@@ -46,8 +46,8 @@ params:
   plausible: true
 
   homePage:
-    title: Raul Camacho
-    description: Welcome to my blog
+    title: Howdy! 🤠
+    description: I'm a full stack developer and hobby enthusiast.
     author: Raul Camacho
     avatar: memoji.png
 
