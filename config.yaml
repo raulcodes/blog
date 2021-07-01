@@ -47,9 +47,9 @@ params:
 
   homePage:
     title: Howdy! 🤠
-    description: I'm a full stack developer and hobby enthusiast.
+    description: I'm a full stack developer and hobby enthusiast. I write about code, music, design, and whatever else I find interesting!
     author: Raul Camacho
-    avatar: memoji.png
+    avatar: pp.jpg
 
     socialIcons:
     - name: github
