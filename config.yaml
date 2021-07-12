@@ -37,8 +37,8 @@ taxonomies:
 params:
   env: production
 
-  # Available themes: gotham, toothpaste, dracula, gandalf
-  colorTheme: gotham
+  # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite
+  colorTheme: red-graphite
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans 
