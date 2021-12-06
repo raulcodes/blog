@@ -38,10 +38,10 @@ params:
   env: production
 
   # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite
-  colorTheme: red-graphite
+  colorTheme: toothpaste
 
   # Font family: IBM Plex, available styles: serif, sans
-  fontStyle: sans 
+  fontStyle: sans
 
   plausible: true
 
@@ -49,7 +49,7 @@ params:
     title: Howdy! 🤠
     description: I'm a full stack developer and hobby enthusiast. I write about code, music, design, and whatever else I find interesting!
     author: Raul Camacho
-    avatar: pp.jpg
+    avatar: pp_21.jpg
 
     socialIcons:
     - name: github
