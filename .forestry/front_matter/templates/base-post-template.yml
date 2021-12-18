@@ -17,3 +17,5 @@ fields:
 - type: text
   name: summary
   label: summary
+pages:
+- content/posts/paroxetine-withdrawals.md
