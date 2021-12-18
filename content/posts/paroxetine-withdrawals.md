@@ -1,7 +1,6 @@
 +++
 author = "Raul Camacho"
 date = 2021-12-18T02:00:00Z
-draft = true
 keywords = ["Anxiety", "SSRI"]
 summary = "My second time experiencing SSRI withdrawal symptoms"
 title = "Paroxetine Withdrawals"
