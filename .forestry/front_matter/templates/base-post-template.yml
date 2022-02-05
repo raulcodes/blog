@@ -18,4 +18,5 @@ fields:
   name: summary
   label: summary
 pages:
+- content/posts/my-favorite-hats-ape-bird.md
 - content/posts/paroxetine-withdrawals.md
