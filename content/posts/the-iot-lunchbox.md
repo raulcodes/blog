@@ -7,8 +7,7 @@ summary = "Making a smart button box"
 title = "The iot Lunchbox"
 
 +++
-  
-  
+![](/uploads/52fa0e5f-b6cd-4f58-aecb-5bcec8dba0f2.jpeg)  
 My experience with Home Assistant has been frustrating and satisfying. Frustrating because under its surface there is a steep learning curve. Getting things like SSL working with the docker image installation involved lots of scrolling through forums, hoping I find a solution. On the other hand, Home Assistant is a fantastically huge repository of learning potential. Its focus on being composable and flexible has created a community that develops integrations and features for almost anything I've wanted so far.
 
 My earliest interest in programming revolved around hardware. One of my first hardware projects was an arduino-powered light-up movie poster for a school project in 6th grade.
