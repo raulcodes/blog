@@ -34,11 +34,13 @@ minify:
 taxonomies:
   tag: "tags"
 
+paginate: 20
+
 params:
   env: production
 
   # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite
-  colorTheme: toothpaste
+  colorTheme: gandalf
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans
@@ -49,6 +51,7 @@ params:
     title: Howdy! 🤠
     description: I'm a full stack developer and hobby enthusiast. I write about code, music, design, and whatever else I find interesting!
     author: Raul Camacho
+    pronouns: he/him
     avatar: pp_21.jpg
 
     socialIcons:
