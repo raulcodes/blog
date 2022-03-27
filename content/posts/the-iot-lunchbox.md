@@ -36,7 +36,7 @@ I love experimenting with smart home technologies and automations that try to br
 
 ## Breakdown
 
-### 1. Home Assistant
+### 1. Home Assistant (docker)
 
 I am running an instance of the home assistant docker image on a raspberry pi 4 model B. My docker compose configuration for home assistant is:
 
@@ -55,7 +55,7 @@ I am running an instance of the home assistant docker image on a raspberry pi 4 
 
 With this running, I am able to integrate these [TP-Link smart plugs](https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-wifi-mini-plug-hs103) that each nightstand lamp is plugged into and control them from the Home Assistant app, web app, or lots of other mechanisms.
 
-### 2. MosQuiTTo
+### 2. Mosquitto (docker)
 
 Mosquitto is a message broker for MQTT. It is developed by the Eclipse Foundation and is a great solution for low overhead messaging. The plan here is to use my ESP8266 development board to publish messages to a MQTT topic that home assistant will listen to for controlling my lights.
 
@@ -80,8 +80,20 @@ Given how low overhead mosquitto is, a raspberry pi 4 is easily able to handle b
 
 In order for Home Assistant to be able to listen for messages in mosquitto, we need the [mqtt Home Assistant integration](https://www.home-assistant.io/integrations/mqtt/). Our use-case is pretty basic, so it was easy to set up and is running without any configuration changes.
 
-### 3. ESP8266 diagramming
+### 3. ESP8266 with arcade buttons
 
-I bought an ESP8266 development chip and arcade buttons from Adafruit, which also provides great resources
+The development board I chose works fantastically and Adafruit's documentation is thorough enough to get most people with some software/hardware knowledge on their way to programming and flashing it. In fact, the board is most definitely overkill for my purposes (I only needed 2 IO pins for example, the ESP8266 has lots more).
 
-### 4. Programming
+To bring my smart lunchbox to life, I needed a program that would:
+
+1. Connect to my wifi
+2. Connect to my mosquitto docker instance
+3. Publish messages to a predefined MQTT topic when a button is pressed
+
+Tutorials for [Adafruit's MQTT client library](https://github.com/adafruit/Adafruit_MQTT_Library) got me #1 and #2, and most of the way to #3! My resulting code is repetitive, straightforward, and by no means clever, but it gets the job done. I'll hopefully refine it in the future with a focus on reusability and DRY-ness.
+
+I picked two digital IO pins on the board and wired them to two arcade buttons. I didn't connect the cool LEDs on the arcade buttons because this is meant for a nightstand, next to where people sleep, and we don't want lights on at night, duh. But the LEDs are very useful if you plan on emulating this project in somewhere like a living room or office.
+
+    <script src="https://gist.github.com/raulcodes/23fcc05275c7161dbe1b0fb531fc3545.js"></script>
+
+With the code and wiring complete, I plugged in the board to power and voila! I had a functioning prototype to work with.
