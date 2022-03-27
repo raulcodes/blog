@@ -1,25 +1,29 @@
 +++
 author = "Raul Camacho"
-date = 2022-03-05T05:00:00Z
-draft = true
-keywords = ["arcade buttons", "smart home", "mqtt", "home assistant", "iot"]
+date = 2022-03-27T05:00:00Z
+draft = false
+keywords = ["dev", "arcade buttons", "smart home", "mqtt", "home assistant", "iot"]
 summary = "Making a smart button box"
 title = "I turned a lunchbox into a nightstand light controller"
 
 +++
-  
+
+{{< image src="lunchbox.jpeg" alt="Finished lunchbox" >}}
+
+Here is the completed project. On the left I installed a Magsafe wireless iPhone charger and on the right are two buttons that control the nightstand lamps of my partner and I. Here's how I built it.
+
 I enjoy overcomplicating things, so this project was a joy. I saw a lunchbox for sale at Target a few months ago and immediately put it in my cart. I didn't need it. I've been working from home since the pandemic started. I don't take lunch anywhere. But I like boxes, so I bought it.
 
 ## Materials
 
 I'm not going to list all of the materials I used, just the main parts of the box itself.
 
-* [1 x bento box from Target](https://www.target.com/p/bento-box-with-bamboo-lid-wise-green-threshold-8482/-/A-83084112#lnk=sametab)
-* 1 x Magsafe iPhone charge
-* 1 x Development board with Wifi [(I used this ESP8266-based board)](https://www.adafruit.com/product/2821)
-  * 1 x micro USB cable
-* 2 x Buttons [(I used these mini arcade buttons, cute and satisfying!)](https://www.adafruit.com/product/3429)
-  * 2 x [Arcade button connectors](https://www.adafruit.com/product/1152)
+* [1 bento box from Target](https://www.target.com/p/bento-box-with-bamboo-lid-wise-green-threshold-8482/-/A-83084112#lnk=sametab)
+* 1 Magsafe iPhone charge
+* 1 Development board with Wifi [(I used this ESP8266-based board)](https://www.adafruit.com/product/2821)
+* 1 micro USB cable
+* 2 Buttons [(I used these mini arcade buttons, cute and satisfying!)](https://www.adafruit.com/product/3429)
+* 2 [Arcade button connectors](https://www.adafruit.com/product/1152)
 * Breadboard for prototyping, perfboard for more permanent mounting
 
 ## Part one: wireless charging
@@ -32,7 +36,7 @@ Admittedly, there is likely some power efficiency loss, but this is used as an o
 
 I love experimenting with smart home technologies and automations that try to bring Star Trek dashboards into your home, but nothing beats the tactile feel of a button for me. Even better, arcade buttons! So, I decided that I wanted that button feel on my nightstand, to control the lamps of my partner and I. Is this an overcomplicated way to turn off lamps that have switches on them anyway? Absolutely. Here's a diagram of what I wanted.
 
-![](/uploads/lunchbox-iot.png)
+{{< image src="lunchbox-iot-diagram.png" alt="Overengineered diagram solution" >}}
 
 ## Breakdown
 
@@ -94,6 +98,25 @@ Tutorials for [Adafruit's MQTT client library](https://github.com/adafruit/Adafr
 
 I picked two digital IO pins on the board and wired them to two arcade buttons. I didn't connect the cool LEDs on the arcade buttons because this is meant for a nightstand, next to where people sleep, and we don't want lights on at night, duh. But the LEDs are very useful if you plan on emulating this project in somewhere like a living room or office.
 
-    <script src="https://gist.github.com/raulcodes/23fcc05275c7161dbe1b0fb531fc3545.js"></script>
+Please appreciate my breadboard diagram, made just for you. The only labeled pins are the ones used by the two beautifully drawn buttons above the board.
 
-With the code and wiring complete, I plugged in the board to power and voila! I had a functioning prototype to work with.
+{{< image src="breadboard.png" alt="Breadboard diagram" >}}
+
+Below is the completed code. As this idea matures, I hope to do a code overview when it is more resilient, DRYer, etc. 
+
+<script src="https://gist.github.com/raulcodes/fe9a4dd6737dfd29835ec7cdaf4fbdd3.js"></script>
+
+With the code and wiring complete, I plugged in the board to power and voila! I had a functional prototype. 
+
+Here are the completed innards of the lunchbox
+
+{{< image src="innards.jpeg" alt="Completed innards" >}}
+
+## Next steps
+
+Some next steps to look forward to:
+1. Transferring my breadboard design to a perfboard.
+2. Improve efficiency, DRYness, general quality of the firmware.
+3. Explore the development board's soft AP mode to allow for remote configuration changes and debugging.
+
+Thanks for reading, I hope to have another part up soon!
