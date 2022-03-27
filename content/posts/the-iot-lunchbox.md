@@ -7,7 +7,7 @@ summary = "Making a smart button box"
 title = "I turned a lunchbox into a nightstand light controller"
 
 +++
-![](/uploads/52fa0e5f-b6cd-4f58-aecb-5bcec8dba0f2.jpeg)  
+  
 I enjoy overcomplicating things, so this project was a joy. I saw a lunchbox for sale at Target a few months ago and immediately put it in my cart. I didn't need it. I've been working from home since the pandemic started. I don't take lunch anywhere. But I like boxes, so I bought it.
 
 ## Materials
