@@ -47,6 +47,8 @@ params:
 
   plausible: true
 
+  postProgress: true
+
   homePage:
     title: Howdy! 🤠
     description: I'm a full stack developer and hobby enthusiast. I write about code, music, design, and whatever else I find interesting!
