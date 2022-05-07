@@ -7,7 +7,7 @@ tags: ["music"]
 summary: "Five years later, I look back at an album that offers commentary on the past and present social climate in America"
 ---
 
-{{< image src="/TPAB.jpg" alt="To Pimp A Butterfly" height="450" width="450" >}}
+{{< image src="/TPAB.jpg" alt="To Pimp A Butterfly" height="450" width="450" caption="To Pimp a Butterfly - Kendrick Lamar (2015)">}}
 
 Hip-Hop is the most popular genre in the world, and there is a great reason for that. It is
 great music! Whether it be instrumentals by producers like Nujabes while working or Denzel Curry while on a much-too-infrequent run of mine, chances are that I’m listening to hip-hop. I wanted to share some of my personal favorite Hip-Hop albums that have I have been re-playing recently.

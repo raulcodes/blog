@@ -8,7 +8,7 @@ title = "I turned a lunchbox into a nightstand light controller"
 
 +++
 
-{{< image src="lunchbox.jpeg" alt="Finished lunchbox" >}}
+{{< image src="lunchbox.jpeg" alt="Finished lunchbox" height=400 >}}
 
 Here is the completed project. On the left I installed a Magsafe wireless iPhone charger and on the right are two buttons that control the nightstand lamps of my partner and I. Here's how I built it.
 
