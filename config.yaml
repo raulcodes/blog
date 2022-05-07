@@ -40,7 +40,7 @@ params:
   env: production
 
   # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite
-  colorTheme: red-graphite
+  colorTheme: toothpaste
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans
@@ -55,6 +55,8 @@ params:
     author: Raul Camacho
     pronouns: he/him
     avatar: pp_21.jpg
+
+    newsletterNetlify: true
 
     socialIcons:
     - name: github
