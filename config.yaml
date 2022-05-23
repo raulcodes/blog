@@ -39,14 +39,20 @@ paginate: 20
 params:
   env: production
 
-  # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite
-  colorTheme: toothpaste
+  # Available themes: gotham, toothpaste, dracula, gandalf, red-graphite, duotone-snow
+  colorTheme: duotone-snow
 
   # Font family: IBM Plex, available styles: serif, sans
   fontStyle: sans
 
+  # Background patterns: graph-paper, polka-dots, rain, texture, wiggle
+  # Patterns available via heropatterns.com
+  backgroundPatterns: rain
+
+  # Adds JS
   plausible: true
 
+  # Adds JS
   postProgress: true
 
   homePage:
