@@ -2,7 +2,7 @@
 author = "Raul Camacho"
 date = 2022-05-26T05:00:00Z
 draft = false
-keywords = ["poetry"]
+keywords = ["poetry", "writing"]
 summary = "I take a crack at interpreting/translating a Spanish poem in English"
 title = "An English Literary Interpretation of Pablo Neruda"
 
