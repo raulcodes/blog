@@ -2,9 +2,9 @@
 author = "Raul Camacho"
 date = 2022-05-26T05:00:00Z
 draft = false
-keywords = ["poetry", "writing"]
 summary = "I take a crack at interpreting/translating a Spanish poem in English"
 title = "An English Literary Interpretation of Pablo Neruda"
+tags = ["literature", "poetry"]
 
 +++
 An episode of Radiolab titled ["100 Flowers"](https://www.radiolab.org/episodes/1000-flowers "100 Flowers") introduced me to the challenges of translating poetry. A strict word-by-word translation will likely leave poetic devices behind. At the same time, emphasizing the preservation of poetic devices over strict translation can result in losing the intended meaning of the poet. So, literary translators must perform a balancing act, trying to preserve the best of both. That’s not what I’m claiming to do here. I just had fun translating this poem, while trying to keep my perceived meaning in mind.

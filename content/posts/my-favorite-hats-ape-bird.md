@@ -2,7 +2,7 @@
 author = "Raul Camacho"
 date = 2022-02-05T05:00:00Z
 draft = true
-keywords = []
+tags = []
 summary = ""
 title = "My Favorite: Hats - Ape & Bird"
 

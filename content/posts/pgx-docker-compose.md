@@ -3,7 +3,6 @@ title: "Setting up Go's pgx package with docker-compose"
 date: "2020-10-16"
 author: "Raul Camacho"
 tags: ["development", "go"]
-keywords: ["golang", "go", "docker", "postgres", "pgx", "docker-compose"]
 description: "A simple docker-compose set up to get you up and running with Go's pgx package"
 ---
 

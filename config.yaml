@@ -20,11 +20,14 @@ languages:
     weight: 1
     menu:
       main:
-        - name: dev
+        - name: development
           url: /tags/development
           weight: 5
         - name: music
           url: /tags/music
+          weight: 10
+        - name: literature
+          url: /tags/literature
           weight: 10
 
 minify:
@@ -67,7 +70,7 @@ params:
     socialIcons:
     - name: github
       url: 'https://github.com/raulcodes'
-    - name: dribbble
+    - name: dev
       url: 'https://dribbble.com/raulcodes'
     # - name: twitter
       # url: 'https://twitter.com/_raulcodes'

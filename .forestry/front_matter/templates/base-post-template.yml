@@ -12,8 +12,8 @@ fields:
   name: author
   label: author
 - type: list
-  name: keywords
-  label: keywords
+  name: tags
+  label: tags
 - type: text
   name: summary
   label: summary

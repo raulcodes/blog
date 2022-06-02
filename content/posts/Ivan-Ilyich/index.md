@@ -2,7 +2,7 @@
 title: "'The Death of Ivan Ilyich' by Leo Tolstoy"
 date: "2021-04-15"
 author: "Raul Camacho"
-keywords: ["Leo Tolstoy", "book", "review"]
+tags: ["literature", "review"]
 summary: "A few thoughts about 'The Death of Ivan Ilyich' by Leo Tolstoy"
 ---
 

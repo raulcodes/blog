@@ -2,7 +2,7 @@
 title: "I tried Cupping"
 date: "2021-06-04T21:25:45-05:00"
 author: "Raul Camacho"
-keywords: ["cupping", ""]
+tags: ["cupping"]
 summary: "Alternative medicine that makes you look like an 'Alien' extra"
 ---
 

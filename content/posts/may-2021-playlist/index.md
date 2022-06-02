@@ -3,7 +3,6 @@ draft: true
 title: "Playlist of The Month: May 2021"
 date: "2021-05-01"
 author: "Raul Camacho"
-keywords: ["spotify", "music", "playlist"]
 tags: ["spotify", "music", "playlist"]
 summary: "This month's top ten is a mixbag."
 ---

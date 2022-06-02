@@ -2,7 +2,6 @@
 title: "Reflection over ‘To Pimp a Butterfly`"
 date: "2020-06-05"
 author: "Raul Camacho"
-keywords: ["Kendrick Lamar", "TPAB", "HipHop"]
 tags: ["music"]
 summary: "Five years later, I look back at an album that offers commentary on the past and present social climate in America"
 ---

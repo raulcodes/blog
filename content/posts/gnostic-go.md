@@ -2,7 +2,6 @@
 title: "Thorough API Documentation and Client Code Generation"
 date: "2020-10-14"
 author: "Raul Camacho"
-keywords: ["api", "gnostic", "google", "protocal buffers", "openapi"]
 description: "How unfinished API documentation diminishes the usefulness of tools like gnostic"
 tags: ["development", "go"]
 ---

@@ -2,8 +2,7 @@
 title: "Spotify Stats NextJS app"
 date: "2021-03-13"
 author: "Raul Camacho"
-keywords: ["spotify", "api", "music", "playlist", "nextjs"]
-tags: ["nextjs", "react", "spotify", "api", "music"]
+tags: ["development", "react", "spotify", "music"]
 summary: "I haven't posted here in a while, so I thought, what better way to start back up then to post
 something I did over a year ago"
 ---
