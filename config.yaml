@@ -70,7 +70,7 @@ params:
     socialIcons:
     - name: github
       url: 'https://github.com/raulcodes'
-    - name: dev
+    - name: dribbble
       url: 'https://dribbble.com/raulcodes'
     # - name: twitter
       # url: 'https://twitter.com/_raulcodes'
