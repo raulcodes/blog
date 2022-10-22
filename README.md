@@ -12,3 +12,11 @@ If you have already cloned the repo without the flag, run:
 ```
 git submodule update --init --recursive
 ```
+
+October 12, 2022
+
+| Resource       | Size (bytes) |
+---------------------------------
+| styles.min.css | 2457         |
+| pp_22.jpg      | 57662        |
+| html           | 4205         |
