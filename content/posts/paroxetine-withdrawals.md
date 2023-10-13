@@ -1,11 +1,12 @@
 +++
-author = "Raul Camacho"
+author = 'Raul Camacho'
 date = 2021-12-18T02:00:00Z
-keywords = ["Anxiety", "SSRI"]
-summary = "My second time experiencing SSRI withdrawal symptoms"
-title = "Paroxetine Withdrawals"
-
+keywords = ['Anxiety', 'SSRI']
+tags = ['life']
+summary = 'My second time experiencing SSRI withdrawal symptoms'
+title = 'Paroxetine Withdrawals'
 +++
+
 Today was the second time in the last 6 months in which I forgot to take my daily 20mg of Paroxetine (Paxil). I started taking it 2 years ago, when my primary care doctor prescribed it to me for Anxiety I was experiencing. My experience with it has been mostly great! The doctor paired my prescription with a referral to a psychotherapist’s office, and the one-two combo has been an effective treatment. Paroxetine gives my brain the hormonal balance it needs to be able to develop techniques with my therapist.
 
 But no one told me about withdrawals. The first time it happened was a couple of months ago. I forgot my usual morning dose. It wasn’t until the afternoon when I began to feel nauseous and tingly that the thought crossed my mind. Maybe I was just getting sick? But after taking my missed dose that afternoon, I recovered by night fall. Today, December 17th, was the second time. I usually keep water on my nightstand, but I realized later that it wasn’t there. I forgot again. Again, I felt fine for the morning. I even went to a coffeeshop to work and had an oat milk latte and a black coffee. I was feeling great, and was really productive at work. But once I got back home and ate lunch, the nausea returned. Maybe the frozen Amy’s meal I ate was bad? Nah, it tasted fine. It only got worse. Again, I realized that I forgot to take my morning dose. This time, I’m currently about 2 hours after taking it and I’m only just now beginning to feel alright.

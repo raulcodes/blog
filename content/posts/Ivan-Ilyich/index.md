@@ -1,10 +1,11 @@
----
-title: "'The Death of Ivan Ilyich' by Leo Tolstoy"
-date: "2021-04-15"
-author: "Raul Camacho"
-keywords: ["Leo Tolstoy", "book", "review"]
-summary: "A few thoughts about 'The Death of Ivan Ilyich' by Leo Tolstoy"
----
++++
+title = '"The Death of Ivan Ilyich" by Leo Tolstoy'
+date = 2021-04-15
+author = 'Raul Camacho'
+keywords = ['Leo Tolstoy', 'book', 'review']
+summary = 'A few thoughts about "The Death of Ivan Ilyich" by Leo Tolstoy'
+tags = ['life']
++++
 
 I just finished this short story by Leo Tolstoy. I forget where it was recommended to me, probably Reddit. It was brutal. It was short, about 100 pages. 
 I was really surprised at how relatable the writing was. Despite the fact that it was written in the late 1800’s, it often felt like Ivan’s life would fit in today. 

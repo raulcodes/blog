@@ -26,6 +26,9 @@ languages:
         - name: music
           url: /tags/music
           weight: 10
+        - name: life
+          url: /tags/life
+          weight: 15
 
 minify:
   disableXML: true

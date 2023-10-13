@@ -1,10 +1,11 @@
----
-title: "I tried Cupping"
-date: "2021-06-04T21:25:45-05:00"
-author: "Raul Camacho"
-keywords: ["cupping", ""]
-summary: "Alternative medicine that makes you look like an 'Alien' extra"
----
++++
+title = 'I tried Cupping'
+date = 2021-06-04T21:25:45-05:00
+author = 'Raul Camacho'
+keywords = ['cupping']
+tags = ['life']
+summary = 'Alternative medicine that makes you look like an "Alien" extra'
++++
 
 {{< image src="images/cupping.jpg" alt="Cupping" height="350" width="350" >}}
 

@@ -1,11 +1,11 @@
----
-title: "Setting up Go's pgx package with docker-compose"
-date: "2020-10-16"
-author: "Raul Camacho"
-tags: ["development", "go"]
-keywords: ["golang", "go", "docker", "postgres", "pgx", "docker-compose"]
-description: "A simple docker-compose set up to get you up and running with Go's pgx package"
----
++++
+title = "Setting up Go's pgx package with docker-compose"
+date = "2020-10-16"
+author = "Raul Camacho"
+tags = ["development", "go"]
+keywords = ["golang", "go", "docker", "postgres", "pgx", "docker-compose"]
+description = "A simple docker-compose set up to get you up and running with Go's pgx package"
++++
 
 Go's [pgx package](https://github.com/jackc/pgx) goes above being a postgres driver and actually implements its own interface that boasts better performance than the standard `database/sql` package. That, along with it being a well-maintained and actively developed project, make it an attractive option for using postgres in your next Go project. This guide will hopefully help you get up and running with `pgx` and docker-compose. 
 

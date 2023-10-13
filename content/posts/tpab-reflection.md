@@ -1,11 +1,11 @@
----
-title: "Reflection over ‘To Pimp a Butterfly`"
-date: "2020-06-05"
-author: "Raul Camacho"
-keywords: ["Kendrick Lamar", "TPAB", "HipHop"]
-tags: ["music"]
-summary: "Five years later, I look back at an album that offers commentary on the past and present social climate in America"
----
++++
+title = "Reflection over ‘To Pimp a Butterfly`"
+date = "2020-06-05"
+author = "Raul Camacho"
+keywords = ["Kendrick Lamar", "TPAB", "HipHop"]
+tags = ["music"]
+summary = "Five years later, I look back at an album that offers commentary on the past and present social climate in America"
++++
 
 {{< image src="/TPAB.jpg" alt="To Pimp A Butterfly" height="450" width="450" caption="To Pimp a Butterfly - Kendrick Lamar (2015)">}}
 

@@ -3,9 +3,9 @@ author = "Raul Camacho"
 date = 2022-03-27T05:00:00Z
 draft = false
 keywords = ["dev", "arcade buttons", "smart home", "mqtt", "home assistant", "iot"]
+tags = ["development"]
 summary = "Making a smart button box"
 title = "I turned a lunchbox into a nightstand light controller"
-
 +++
 
 {{< image src="lunchbox.jpeg" alt="Finished lunchbox" height=400 >}}
