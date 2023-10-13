@@ -6,8 +6,8 @@ keywords = ['travel', 'Ireland', 'proposal']
 tags = ['life']
 summary = 'We celebrated our love in a magical place'
 title = 'My Irish proposal'
+titleImage = 'images/title.jpg'
 +++
-
 
 *September 7, 2023*
 
@@ -26,7 +26,7 @@ twenty minute walk along the edge of the cliffs.
 The walk was pleasant, though bugs and sweat did start to bother. Brooke followed me with only a few small complaints about the bugs and purpose of this walk (a lot less complaints than I definitely would have made, had the roles been reversed). Finally, we arrived and I started taking pictures of Brooke. But I wanted a picture of the both of us! Luckily, there was a landscape photographer close by, so I asked her to take our photo. After having a photo taken of us, I said that I wanted to swap out my sunglasses for my regular glasses. This next part has become smushed and blurred together in my head, so bear with me. 
 I reached into my bag and pulled out the ring box, knelt and got Brooke’s attention. The evening sun behind Brooke made her glow. She said yes and we got the ring onto her finger. After a hug and a kiss, I turned to the landscape photographer and introduced her to Brooke.
 
-{{< image src="images/brooke-raul.jpg" alt="A picture of me, knelt and " height="500" width="500" caption="She said yes!">}}
+{{< image src="images/brooke-raul.jpg" alt="A picture of me, knelt and proposing to Brooke" width="500" caption="She said yes!">}}
 
 ## The planning
 	
@@ -47,7 +47,7 @@ were very helpful, and the spot we landed on was gorgeous during sunset. Sweepin
 grass below, dramatic cliffs behind, the glow of the evening sun from the right, 
 it all came together to paint a surreal picture. 
 
-{{< image src="images/the-spot.jpg" alt="A picture of the spot that Christine and I decided on" height="500" width="500" caption="We decided on the teensy orange arrow">}}
+{{< image src="images/the-spot.jpg" alt="A picture of the spot that Christine and I decided on" width="500" caption="We decided on the teensy orange arrow">}}
 
 ## The execution… of the plan
 
@@ -85,4 +85,4 @@ pictures of the view. At this point I asked her to take our photo and, well, you
 The next two hours felt like a dream. An older man in a tuxedo gave us champagne, I whispered
  sweet nothings into Brooke’s ear while Christine posed us, bugs flew into our ears, cows mooed. 
 
- {{< image src="images/hands.jpg" alt="A picture of Brooke and I holding hands with the sun behind us" height="300" caption="❤️">}}
+ {{< image src="images/hands.jpg" alt="A picture of Brooke and I holding hands with the sun behind us" width="500" caption="❤️">}}
